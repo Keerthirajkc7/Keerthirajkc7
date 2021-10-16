@@ -30,7 +30,7 @@ What will be predicted score if a student studies for 9.25 hrs/ day?
 
 Github Link : https://github.com/Keerthirajkc7/Keerthirajkc7/blob/da9ac5b6ebe7af52f04898bb26302476ca716857/Task-1@GRIP.ipynb
 
-Youtube Link :
+Youtube Link : https://youtu.be/AcA1AjR455g
 
 
 **✔ Intern Details:**
