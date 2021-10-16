@@ -28,7 +28,7 @@ You can use R, Python, SAS Enterprise Miner or any other tool.
 
 What will be predicted score if a student studies for 9.25 hrs/ day?
 
-Github Link :
+Github Link : https://github.com/Keerthirajkc7/Keerthirajkc7/blob/da9ac5b6ebe7af52f04898bb26302476ca716857/Task-1@GRIP.ipynb
 
 Youtube Link :
 
